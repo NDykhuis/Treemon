@@ -1,0 +1,4 @@
+*.pyc
+*~
+.directory
+.kate-swp
